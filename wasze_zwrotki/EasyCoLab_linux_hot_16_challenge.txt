@@ -1,4 +1,4 @@
-#Name: EasyCoLab
+#AUTOR: EasyCoLab
 #Zasady: https://github.com/ZPXD/LinuxHot16Challenge
 #a little bit too much? I'm just learning to use TOUCH! xD
 
